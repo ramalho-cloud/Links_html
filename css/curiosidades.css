@@ -5,3 +5,35 @@
 }
 
 
+body {
+    background-color: white;
+    color: black;
+}
+
+header {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items : center;
+}
+
+#curiosidade1{
+     background-color: rgba(4, 173, 219, 0.847);
+     padding: 15px;
+     margin: 20px;
+}
+
+#curiosidade2{
+      background-color: rgba(4, 173, 219, 0.847);
+     padding: 15px;
+     margin: 20px;
+}
+
+#curiosidade3{
+      background-color: rgba(4, 173, 219, 0.847);
+     padding: 15px;
+     margin: 20px;
+}
